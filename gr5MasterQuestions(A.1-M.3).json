@@ -3597,12 +3597,24 @@
         ],
         "solution": [
           [
-            "1/2",
+            "1/5",
             "Add the numbers in each column. Remember to regroup. Write the decimal point in the sum."
           ],
           [
-            "2/2",
-            "0.77+0.23=1.00.\nThe sum is $1.00."
+            "2/5",
+            "Add the hundreths 7 + 3, Remember to regroup. \n7+3=10"
+          ],
+          [
+            "3/5",
+            "Add the tenths 7 + 2 + 1, Remember to regroup. \n7+2 +1=10"
+          ],
+          [
+            "4/5",
+            "Add the ones 0 + 0 + 1. \n0+0+1=1"
+          ],
+          [
+            "5/5",
+            "Therefore $0.77 + $0.23 = $1"
           ]
         ],
         "solution_image_tag": []
@@ -3629,18 +3641,18 @@
         "solution_image_tag": []
       },
       {
-        "question_text": "Jaden picks out a chess set for $14 and a trivia game for $25. When he checks out, how much will the total bill be?\n$__",
+        "question_text": "Jaden picks out a chess set for $14 and a trivia game for $25. How much will Jaden's bill cost?\n$__",
         "skills": "add-and-subtract-money-word-problems",
         "question_type": "Fill in the blank",
         "question_number": "M.2.1",
         "tag":"Grade5_M.2",
         "correct_answers": [
-          "39"
+          "39","39.0","39.00"
         ],
         "solution": [
           [
             "1/2",
-            "Find the amounts of money to add.\n14+25=39."
+            "Find the amounts of money to add. Add the cost of the chess set and the cost of the trivia game.\n14+25=39."
           ],
           [
             "2/2",
@@ -3652,13 +3664,13 @@
         ]
       },
       {
-        "question_text": "The regular price of a box of granola is $7.15. Today there is a special deal for $6.25 off each box. How much does a box of granola cost with the special deal?\n$__",
+        "question_text": "The regular price of a box of granola is $7.15. Today, they are on sale for $6.25 off each box. How much does a box of granola cost with the sale?\n$__",
         "skills": "add-and-subtract-money-word-problems",
         "question_type": "Fill in the blank",
         "question_number": "M.2.2",
         "tag":"Grade5_M.2",
         "correct_answers": [
-          "0.90"
+          "0.90","0.9"
         ],
         "solution": [
           [
@@ -3735,13 +3747,13 @@
           ]
         ],
         "solution_image_tag": [
-          "Grade5_M.3.2_solution_step_1"
+          "Grade5_M.3.2_solution_step_1" 
         ]
       },
       {
         "question_text": "How much money does Chandler need to buy a book about baseball and a book about trains?",
         "skills": "price-lists-with-addition-and-subtraction",
-        "image_tag": "Grade5_M.3.4",
+        "image_tag": "Grade5_M.3.4", #NOT IN IMAGE MASTER
         "question_type": "Fill in the blank",
         "question_number": "M.3.4",
         "tag": "Grade5_M.3",
@@ -3765,13 +3777,13 @@
           ]
         ],
         "solution_image_tag": [
-          "Grade5_M.3.4_solution_step_1"
+          "Grade5_M.3.4_solution_step_1" #NOT IN IMAGE MASTER
         ]
       },
       {
         "question_text": "Lucy has $928.00. How much money will Lucy have left if she buys an incubator and a microscope?\n\n\n\n\n\n$",
         "skills": "price-lists-with-addition-and-subtraction",
-        "image_tag": "Grade5_M.3.9",
+        "image_tag": "Grade5_M.3.9", #NOT IN IMAGE MASTER
         "question_type": "Fill in the blank",
         "question_number": "M.3.9",
         "tag":"Grade5_M.3",
@@ -3797,7 +3809,7 @@
           ]
         ],
         "solution_image_tag": [
-          "Grade5_M.3.9_solution_step_1"
+          "Grade5_M.3.9_solution_step_1" #NOT IN IMAGE MASTER
         ]
       }
 ]
