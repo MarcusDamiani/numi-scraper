@@ -3221,7 +3221,7 @@
           ]
         ],
         "solution_image_tag": [
-          "Grade5_B.3.1_solution_step_1"
+          "Grade5_B.3.1_solution_step_1" #Image should be shown in step 2/7
         ]
       },
       {
@@ -3235,36 +3235,40 @@
         ],
         "solution": [
           [
-            "1/7",
-            "Subtract the number of points Gavin has from the total number of points."
+            "1/8",
+            "Subtract the number of points Gavin has from the total number of points. \nTotal points - Gavin's points"
           ],
           [
-            "2/7",
-            "Subtract:\n69581−55215\nSubtract the ones. You need to regroup first. Subtract 11 − 5.\n11–5=6"
+            "2/8",
+            "Subtract:\n69581−55215"
           ],
           [
-            "3/7",
+            "3/8",
+            "Subtract the ones. You need to regroup first. Subtract 11 − 5.\n11–5=6"
+          ],
+          [
+            "4/8",
             "Subtract the tens. Subtract 7 − 1.\n7–1=6"
           ],
           [
-            "4/7",
+            "5/8",
             "Subtract the hundreds.\n5–2=3"
           ],
           [
-            "5/7",
+            "6/8",
             "Subtract the thousands.\n9–5=4"
           ],
           [
-            "6/7",
+            "7/8",
             "Subtract the ten thousands.\n6–5=1"
           ],
           [
-            "7/7",
-            "The difference is 14366. Gavin's cousin has 14366 points."
+            "8/8",
+            "The difference is 14366. Therefore, Gavin's cousin has 14366 points."
           ]
         ],
         "solution_image_tag": [
-          "Grade5_B.3.2_solution_step_1"
+          "Grade5_B.3.2_solution_step_1" #Should be shown in step 2
         ]
       },
       {
@@ -3278,22 +3282,38 @@
         ],
         "solution": [
           [
-            "1/3",
-            "Remember to line up the decimal points.\n843.41+225.97?"
+            "1/7",
+            "Remember to line up the decimal points.\n843.41+225.97"
           ],
           [
-            "2/3",
-            "Add as you would add whole numbers. Remember to write the decimal point in the answer.\n843.41+225.97=1069.38"
+            "2/7",
+            "Add as you would add whole numbers, start by adding the hundreths.\n1+7=8"
           ],
           [
-            "3/3",
+           "3/7",
+            "Add the tenths. 4 + 9. Remember to regroup.\n4+9=13"
+          ],
+          [
+            "4/7",
+            "Add the ones 3 + 5 + 1\n3+5+1=9"
+          ],
+          [
+           "5/7",
+            "Add the tens 4 + 2\n4+2=6"
+          ],
+          [
+           "6/7",
+            "Add the hundreds 8 + 2\n8+2=10"
+          ],
+          [
+            "7/7",
             "The sum is 1069.38."
           ]
         ],
         "solution_image_tag": []
       },
       {
-        "question_text": "Use properties to find the sum. Fill in the missing numbers.\n4.1+7.7+9.3\n=4.1+(__+9.3)=4.1+__=__",
+        "question_text": "Use properties to find the sum. Fill in the missing numbers.\n4.1+7.7+9.3=4.1+(__+9.3)\n=4.1+__\n=__",
         "skills": "use-properties-to-add-three-decimals-up-to-hundredths",
         "question_type": "Fill in the blank",
         "question_number": "I.1",
@@ -3303,22 +3323,26 @@
         ],
         "solution": [
           [
-            "1/3",
-            "Find the sum. You can use properties of addition to make the problem easier.\n4.1+7.7+9.3"
+            "1/4",
+            "Use the associative property to group the numbers that are easier to add first.\n4.1+7.7+9.3=4.1+(7.7+9.3)"
           ],
           [
-            "2/3",
-            "7.7 and 9.3 are easier to add. So, use the associative property to group those numbers together. \n4.1+7.7+9.3 = 4.1+(7.7+9.3)"
+            "2/4",
+            "Fill in the first blank with 7.7. (7.7 + 9.3)\n7.7+9.3=17."
           ],
           [
-            "3/3",
-            "Now, add the numbers. Start with the numbers you grouped together. \n4.1+7.7+9.3=4.1+(7.7+9.3)=4.1+17=21.1"
+            "3/4",
+            "Solve for the second blank. (7.7 + 9.3)\n7.7+9.3=17."
+          ],
+          [
+            "4/4",
+            "Now, add the remaining numbers to solve for the final blank. 4.1 + 17 \n4.1+17=21.1"
           ]
         ],
         "solution_image_tag": []
       },
       {
-        "question_text": "Use properties to find the sum. Fill in the missing numbers.\n6.6+14.6+13.4\n=6.6+__+14.6=__+14.6=__",
+        "question_text": "Use properties to find the sum. Fill in the missing numbers.\n6.6+14.6+13.4=6.6+__+14.6\n=__+14.6\n=__",
         "skills": "use-properties-to-add-three-decimals-up-to-hundredths",
         "question_type": "Fill in the blank",
         "question_number": "I.2",
@@ -3329,15 +3353,19 @@
         "solution": [
           [
             "1/3",
-            "Find the sum. You can use properties of addition to make the problem easier.\n6.6+14.6+13.4"
+            "Use the associative property to group the numbers that are easier to add first.\n6.6+14.6+13.4=(6.6+13.4)+14.6"
           ],
           [
             "2/3",
-            "6.6 and 13.4 are easier to add. So, use the commutative property to reorder the numbers. \n6.6+14.6+13.4=6.6+13.4+14.6"
+            "Put 13.4 in the first blank."
+          ],
+          [
+          "2/3",
+            "Solve the second blank 6.6 + 13.4.\n6.6+13.4=20"
           ],
           [
             "3/3",
-            "Now, add the numbers from left to right. \n6.6+14.6+13.4=6.6+13.4+14.6=20+14.6=34.6"
+            "Solve the final blank 20 +14.6.\n20+14.6=34.6"
           ]
         ],
         "solution_image_tag": []
@@ -3353,15 +3381,27 @@
         ],
         "solution": [
           [
-            "1/3",
-            "Remember to line up the decimal points."
+            "1/6",
+            "Remember to line up the decimal points.\n807.7–392.1"
           ],
           [
-            "2/3",
-            "Subtract as you would subtract whole numbers. Remember to write the decimal point in the answer."
+            "2/6",
+            "Subtract as you would add whole numbers, start by subtracting the tenths 7 - 1.\n7-1=6"
           ],
           [
-            "3/3",
+           "3/6",
+            "Subtract the ones. 7 - 5. \n7-2=5"
+          ],
+          [
+            "4/6",
+            "Subtract the tens. Remeber to regroup 10 - 9\n10-9=1"
+          ],
+          [
+           "5/6",
+            "Subtract the hundreds 7 - 3\n7-3=4"
+          ],
+          [
+            "6/6",
             "807.7–392.1=415.6.\nThe difference is 415.6."
           ]
         ],
@@ -3378,15 +3418,23 @@
         ],
         "solution": [
           [
-            "1/3",
-            "Remember to line up the decimal points."
+            "1/5",
+            "Remember to line up the decimal points.\n51.3+25.9"
           ],
           [
-            "2/3",
-            "Add as you would add whole numbers. Remember to write the decimal point in the answer."
+            "2/5",
+            "Add as you would add whole numbers, start by adding the tenths 3 + 9, remeber to regroup.\n3+9=12"
           ],
           [
-            "3/3",
+           "3/5",
+            "Add the ones. 1 + 5 + 1.\n1+5+1=7"
+          ],
+          [
+            "4/5",
+            "Add the tens 5 + 2 \n5+2=7"
+          ],
+          [
+            "5/5",
             "51.3+25.9=77.2.\nThe sum is 77.2."
           ]
         ],
@@ -3468,7 +3516,7 @@
         "solution_image_tag": []
       },
       {
-        "question_text": "Use compensation to find 18.31–12.9. Fill in the missing numbers.\n18.31–12.9=18.31–__+0.1=",
+        "question_text": "Use compensation to find 18.31–12.9. Fill in the missing numbers.\n18.31–12.9=18.31–__+0.1=__",
         "skills": "use-compensation-to-add-and-subtract-decimals-up-to-hundredths",
         "question_type": "Fill in the blank",
         "question_number": "I..3",
@@ -3516,7 +3564,7 @@
         ]
       },
       {
-        "question_text": "Brad had 8.97 grams of pepper. Then he used 7.57 grams of the pepper to make some scrambled eggs. How much pepper does Brad have left?\n___​ grams",
+        "question_text": "Brad has 8.97 grams of pepper. He uses 7.57 grams of the pepper to make some scrambled eggs. How many grams of pepper does Brad have left?\n___​ grams",
         "skills": "add-and-subtract-decimals-up-to-hundredths-word-problems",
         "question_type": "Fill in the blank",
         "question_number": "I.5.2",
