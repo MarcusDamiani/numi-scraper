@@ -3156,7 +3156,7 @@
         "solution": [
           [
             "1/6",
-            "Subtract the ones. Subtract 6–3."
+            "Subtract the ones. Subtract 6–3.\n6-3=3"
           ],
           [
             "2/6",
@@ -3172,7 +3172,7 @@
           ],
           [
             "5/6",
-            "Subtract the ten thousands. Subtract 9–4."
+            "Subtract the ten thousands. Subtract 9–4.\n9-4=5"
           ],
           [
             "6/6",
@@ -3182,7 +3182,7 @@
         "solution_image_tag": []
       },
       {
-        "question_text": "Last year at Oakland's airport, 2030 passengers landed on time. Unfortunately, 654 passengers landed late. In all, how many passengers landed in Oakland last year?\n\n\n​ passengers",
+        "question_text": "Last year at Oakland's airport, 2030 passengers landed on time. Unfortunately, 654 passengers landed late. In total, how many passengers landed in Oakland last year?\n\n\n​ passengers",
         "skills": "add-and-subtract-whole-numbers-up-to-100-000-word-problems",
         "question_type": "Fill in the blank",
         "question_number": "B.3.1",
@@ -3192,28 +3192,32 @@
         ],
         "solution": [
           [
-            "1/6",
-            "Add the numbers of passengers."
+            "1/7",
+            "Add the numbers of passengers. \nPassengers landed on time + Passengers landed late "
           ],
           [
-            "2/6",
-            "Add:\n2030+654\nAdd the ones. Add 0 + 4.\n0+4=4"
+            "2/7",
+            "Add:\n2030+654"
           ],
           [
-            "3/6",
+            "3/7",
+            "Add the ones. Add 0 + 4.\n0+4=4"
+          ],
+          [
+            "4/7",
             "Add the tens. Add 3 + 5.\n3+5=8"
           ],
           [
-            "4/6",
+            "5/7",
             "Add the hundreds. Add 0 + 6.\n0+6=6"
           ],
           [
-            "5/6",
+            "6/7",
             "Add the thousands. Bring down the 2."
           ],
           [
-            "6/6",
-            "The sum is 2684. In all, 2684 passengers landed in Oakland last year.."
+            "7/7",
+            "The sum is 2684. \n\nIn total, 2684 passengers landed in Oakland last year."
           ]
         ],
         "solution_image_tag": [
